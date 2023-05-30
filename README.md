@@ -1,5 +1,5 @@
 # Dating_app Assignment
-It's an assignment which was given by Krinati Software Solutions for SDE intern round 1 its a backend related task.
+This project implements a matchmaking feature for a dating app backend. It allows users to get potential matches based on their hobbies.
 ## API
 
 ### Get Potential Matches
